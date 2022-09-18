@@ -4,7 +4,7 @@ from telebot import types
 from dotenv import load_dotenv
 
 load_dotenv()
-API_KEY = os.getenv('5780310869:AAGEV9Sg3yjtwogIDM_zGDDGyGC408ZMij4')
+API_KEY = os.getenv('401643678:TEST:e46389b1-8055-4202-9909-8cbd0df6d95b')
 STORE_URL = os.getenv('http://localhost:8888/')
 bot = telebot.TeleBot(5780310869:AAGEV9Sg3yjtwogIDM_zGDDGyGC408ZMij4)
 
